@@ -20,4 +20,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-pantasubas.com.np-blue)](https://pantasubas.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/subas-panta)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subaspanta)
+![GitHub Streak](https://streak-stats.demolab.com?user=subaspanta&theme=radical)
