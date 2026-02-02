@@ -1,19 +1,18 @@
 # Hi, I'm Subas 👋
 
-**Full-Stack MERN Developer** | Student
+**Full-Stack MERN Developer** building real-world apps with React, Node.js & MongoDB.
 
----
+🔭 I'm currently focused on:  
+• Building scalable APIs & MERN apps  
+• System design fundamentals  
+• Authentication & security
 
-## 🔹 Tech Stack
-React • Node.js • Express • MongoDB • TypeScript
+💡 Tech Stack  
+React · Node.js · Express · MongoDB · TypeScript
 
-## 🔹 What I Build
-End-to-end web apps, REST APIs, dashboards
+🚀 Featured Projects  
+🔗 [Portfolio](https://github.com/subaspanta/portfolio) — Personal site  
+🔗 [Employee-Management](https://github.com/subaspanta/Employee-Management) — CRUD app  
+🔗 *(Coming soon)* Signature MERN app with full auth & API
 
-## 🔹 Currently Learning
-System design, authentication, scalable APIs
-
----
-
-## 🔗 Portfolio
-[pantasubas.com.np](https://pantasubas.com.np)
+🌱 Always learning, always shipping.
