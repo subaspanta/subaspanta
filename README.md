@@ -12,7 +12,6 @@ React · Node.js · Express · MongoDB · TypeScript
 
 🚀 Featured Projects  
 🔗 [Portfolio](https://github.com/subaspanta/portfolio) — Personal site  
-🔗 [Employee-Management](https://github.com/subaspanta/Employee-Management) — CRUD app  
 🔗 *(Coming soon)* Signature MERN app with full auth & API
 
 🌱 Always learning, always shipping.
