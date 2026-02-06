@@ -32,7 +32,6 @@
 
 ## ✨ Featured Projects
 - **[Portfolio](https://github.com/subaspanta/Portfolio)** - MERN architecture with high-performance UI
-- **[Employee-Management](https://github.com/subaspanta/Employee-Management)** - Scalable CRUD with JWT security
 
 ## 📫 Connect
 <div align="left">
