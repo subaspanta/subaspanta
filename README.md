@@ -32,9 +32,9 @@ Fun fact: `typeof null === "object"` — JavaScript keeps us humble.
 
 ### 🛠 Tools & Engineering Workflow
 - Git & GitHub (version control, pull requests)  
+- Docker (containerization fundamentals, local development environments)  
+- Postman (API testing, request validation, debugging)
 - VS Code  
-- Modern frontend tooling and build workflows  
-- Collaborative, code-review-driven development  
 
 ---
 
