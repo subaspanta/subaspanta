@@ -5,6 +5,8 @@ Frontend-focused JavaScript developer building scalable, production-ready web ap
 
 ---
 
+Fun fact: `typeof null === "object"` — JavaScript keeps us humble.
+
 ## 🚀 Tech Stack
 
 ### 🖥 Frontend Development
