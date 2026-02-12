@@ -40,8 +40,7 @@ Fun fact: `typeof null === "object"` — JavaScript keeps us humble.
 
 ## 📊 GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=subaspanta&show_icons=true&hide_title=true&hide_rank=true)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subaspanta&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=subaspanta&show_icons=true&hide_title=true&hide_rank=true&count_private=true)
 
 ---
 
