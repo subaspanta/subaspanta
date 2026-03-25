@@ -67,7 +67,7 @@ Hands-on work building backend APIs, integrating databases, and connecting front
 ## 🤝 Connect
 - 🌐 Portfolio: https://www.pantasubas.com.np/  
 - 💻 GitHub: https://github.com/subaspanta  
-- 🔗 LinkedIn: _Add link_
+- 🔗 LinkedIn: https://www.linkedin.com/in/subas-panta/
 
 ---
 
