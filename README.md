@@ -46,14 +46,5 @@ Currently obsessed with backend engineering and AI.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=subaspanta&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
