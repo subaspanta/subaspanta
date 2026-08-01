@@ -2,7 +2,7 @@
 
 # Hi, I'm Subas 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Fullstack+Developer;AI+Tinkerer;Building+things%2C+breaking+things%2C+learning+things." alt="Typing SVG" />
+**Fullstack Developer · AI Tinkerer**
 
 </div>
 
@@ -18,17 +18,20 @@ I build fullstack products and explore what's possible with AI — React/Next.js
 
 ### Stack
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL, Prisma" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel" alt="Docker, Git, GitHub, VS Code, Postman, Vercel" />
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL, Prisma" /></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel" alt="Docker, Git, GitHub, VS Code, Postman, Vercel" /></td>
+</tr>
+</table>
 
 ### Streak
 
