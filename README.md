@@ -1,50 +1,38 @@
-<h1 align="center">Hi, I'm Subas 👋</h1>
+<div align="center">
+
+# Hi, I'm Subas 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Backend+Engineer;AI+Tinkerer;Building+things%2C+breaking+things%2C+learning+things." alt="Typing SVG" />
+
+</div>
+
+I build backend systems and explore what's possible with AI — mostly Node.js APIs, Postgres, and OpenAI's tooling. This is where I keep track of what I'm building, breaking, and learning.
 
 <div align="center">
 
-## 💫 About Me
+### Connect
 
-Building things, breaking things, learning things.
-
-Currently obsessed with backend engineering and AI.
-
----
-
-## 🌐 Socials
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pantasubas.com.np/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pantasubas.com.np/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subas-panta/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subas.panta.dev@gmail.com)
 
----
+### Stack
 
-## 💻 Tech Stack
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
 
-### Frontend
+**Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL, Prisma" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge)
+**Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel" alt="Docker, Git, GitHub, VS Code, Postman, Vercel" />
 
-### Backend
+### Streak
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI & Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true&background=00000000&ring=6D28D9&fire=6D28D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true" alt="Subas's GitHub streak" />
+</picture>
 
 </div>
