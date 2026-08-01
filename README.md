@@ -2,11 +2,11 @@
 
 # Hi, I'm Subas 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Backend+Engineer;AI+Tinkerer;Building+things%2C+breaking+things%2C+learning+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Fullstack+Developer;AI+Tinkerer;Building+things%2C+breaking+things%2C+learning+things." alt="Typing SVG" />
 
 </div>
 
-I build backend systems and explore what's possible with AI — mostly Node.js APIs, Postgres, and OpenAI's tooling. This is where I keep track of what I'm building, breaking, and learning.
+I build fullstack products and explore what's possible with AI — React/Next.js on the frontend, Node.js and Postgres on the backend, OpenAI's tooling in between. This is where I keep track of what I'm building, breaking, and learning.
 
 <div align="center">
 
@@ -19,12 +19,15 @@ I build backend systems and explore what's possible with AI — mostly Node.js A
 ### Stack
 
 **Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" />
 
 **Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL, Prisma" />
 
 **Tools**
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel" alt="Docker, Git, GitHub, VS Code, Postman, Vercel" />
 
 ### Streak
