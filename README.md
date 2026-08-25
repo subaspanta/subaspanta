@@ -6,32 +6,45 @@
 
 </div>
 
-I build fullstack products and explore what's possible with AI — React/Next.js on the frontend, Node.js and Postgres on the backend, OpenAI's tooling in between. This is where I keep track of what I'm building, breaking, and learning.
+## 👋 About Me
+
+- 💻 Fullstack Developer, currently tinkering with **AI**
+- 🚀 I build fullstack products and explore what's possible with AI
+- ⚡ React/Next.js on the frontend, Node.js and Postgres on the backend
+- 🔭 Always exploring new codebases, fresh project ideas, and building AI-native tools
+- 🌱 Passionate about building fast and shipping faster
+- 😄 Fun fact: I break more code than I write, then fix it before coffee gets cold
+
+## 🧑‍💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,prisma,python,linux" alt="Tech stack icons" />
+</p>
+
+### Tools & DevOps
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+
+## ⚡ GitHub Stats
 
 <div align="center">
 
-### Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=default&hide_border=true" alt="Subas's GitHub stats" />
+</picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pantasubas.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subas-panta/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subas.panta.dev@gmail.com)
-
-### Stack
-
-<table>
-<tr>
-<td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS" /></td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="Node.js, Express, PostgreSQL, Prisma" /></td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel" alt="Docker, Git, GitHub, VS Code, Postman, Vercel" /></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=default&hide_border=true" alt="Subas's most used languages" />
+</picture>
 
 ### Streak
 
@@ -40,5 +53,27 @@ I build fullstack products and explore what's possible with AI — React/Next.js
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true&background=00000000&ring=6D28D9&fire=6D28D9" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true" alt="Subas's GitHub streak" />
 </picture>
+
+</div>
+
+## ✅ Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=react-dark&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=minimal&hide_border=true" alt="Subas's contribution graph" />
+</picture>
+
+</div>
+
+<div align="center">
+
+### Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pantasubas.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subas-panta/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subas.panta.dev@gmail.com)
 
 </div>
