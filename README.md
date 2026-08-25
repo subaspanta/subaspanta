@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./image/Bg.png" alt="Banner" width="100%" />
+<img src="./image/Bg-banner.png" alt="" width="100%" />
 
 # Hi, I'm Subas 👋
 
@@ -10,27 +10,25 @@
 
 ## 👋 About Me
 
-- 💻 Fullstack Developer, currently tinkering with **AI**
-- 🚀 I build fullstack products and explore what's possible with AI
+- 💻 Fullstack developer, currently tinkering with **AI**
 - ⚡ React/Next.js on the frontend, Node.js and Postgres on the backend
-- 🔭 Always exploring new codebases, fresh project ideas, and building AI-native tools
+- 🔭 Exploring new codebases, fresh project ideas, and AI-native tools
 - 🌱 Passionate about building fast and shipping faster
 - 😄 Fun fact: I break more code than I write, then fix it before coffee gets cold
 
 ## 🧑‍💻 Tech Stack
 
+### Languages & Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,python,linux,docker" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,python" alt="Languages and frameworks" />
 </p>
 
 ### Tools & DevOps
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" alt="Tools and DevOps" />
+</p>
 
 ## ⚡ GitHub Stats
 
