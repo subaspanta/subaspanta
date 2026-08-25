@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./image/Bg.png" alt="Banner" width="100%" />
+
 # Hi, I'm Subas 👋
 
 **Fullstack Developer · AI Tinkerer**
