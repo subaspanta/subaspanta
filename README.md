@@ -18,7 +18,7 @@
 ## 🧑‍💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,prisma,python,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,python,linux,docker" alt="Tech stack icons" />
 </p>
 
 ### Tools & DevOps
