@@ -27,14 +27,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" alt="Tools and DevOps" />
 </p>
 
-## ⚡ GitHub Stats
+## ⚡ Streak
 
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=subaspanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Subas's GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Subas's most used languages" />
-
-### Streak
 
 <img src="assets/streak.svg" alt="Subas's GitHub streak" />
 
