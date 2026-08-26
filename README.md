@@ -31,17 +31,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=subaspanta&show_icons=true&theme=default&hide_border=true" alt="Subas's GitHub stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subaspanta&layout=compact&theme=default&hide_border=true" alt="Subas's most used languages" />
-</picture>
+<img src="https://raw.githubusercontent.com/subaspanta/github-stats/generated/overview.svg" alt="Subas's GitHub stats" />
+<img src="https://raw.githubusercontent.com/subaspanta/github-stats/generated/languages.svg" alt="Subas's most used languages" />
 
 ### Streak
 
