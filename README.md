@@ -1,23 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%C2%B7%20AI%20Tinkerer&descSize=18&descColor=94a3b8&descAlignY=62&animation=twinkling" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%C2%B7%20AI%20%26%20DevOps%20Explorer&descSize=18&descColor=94a3b8&descAlignY=62&animation=twinkling" width="100%" alt="Banner" />
 
 </div>
 
 ## 👋 About Me
 
-- 💻 Fullstack developer, currently tinkering with **AI**
+- 💻 Fullstack developer, currently exploring **AI** and **DevOps**
 - ⚡ React/Next.js on the frontend, Node.js and Postgres on the backend
+- 🗄️ Comfortable with SQL and MongoDB
 - 🔭 Exploring new codebases, fresh project ideas, and AI-native tools
 - 🌱 Passionate about building fast and shipping faster
-- 😄 Fun fact: I break more code than I write, then fix it before coffee gets cold
+- 😄 Fun fact: I break more code than I write, and coffee's usually cold before I fix it
 
 ## 🧑‍💻 Tech Stack
 
 ### Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,python" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma" alt="Languages and frameworks" />
 </p>
 
 ### Tools & DevOps
@@ -44,11 +45,9 @@
 
 ### Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true&background=00000000&ring=6D28D9&fire=6D28D9" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subaspanta&theme=default&hide_border=true" alt="Subas's GitHub streak" />
-</picture>
+<img src="assets/streak.svg" alt="Subas's GitHub streak" />
+
+<sub>Self-generated daily via <a href="./.github/workflows/metrics.yml">GitHub Actions</a> — no third-party server involved.</sub>
 
 </div>
 
