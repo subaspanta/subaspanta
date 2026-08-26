@@ -41,11 +41,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=react-dark&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=minimal&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subaspanta&theme=minimal&hide_border=true" alt="Subas's contribution graph" />
-</picture>
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Subas's contribution graph" />
+
+<sub>Self-generated daily via <a href="./.github/workflows/metrics.yml">GitHub Actions</a> — no third-party server involved.</sub>
 
 </div>
 

@@ -31,3 +31,19 @@ jobs:
           git add assets/streak.svg
           git diff --staged --quiet || git commit -m "chore: update streak stats"
           git push
+
+  activity:
+    needs: streak
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution activity card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: subaspanta
+          BRANCH_NAME: main
+          THEME: tokyonight
+          AUTO_PUSH: true
