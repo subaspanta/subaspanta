@@ -20,7 +20,7 @@ jobs:
       - name: Generate streak stats SVG
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=subaspanta&theme=dark&background=00000000&ring=A78BFA&fire=A78BFA&hide_border=true
+          options: user=subaspanta&theme=tokyonight&background=00000000&hide_border=true
           path: assets/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
