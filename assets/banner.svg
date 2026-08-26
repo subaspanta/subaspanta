@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)" />
+  <text x="600" y="88" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="42" font-weight="700" fill="#ffffff">
+    Hi, I'm Subas 👋
+  </text>
+  <text x="600" y="124" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" fill="#94a3b8">
+    Fullstack Developer · AI &amp; DevOps Explorer
+  </text>
+</svg>
