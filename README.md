@@ -33,8 +33,6 @@
 
 <img src="assets/streak.svg" alt="Subas's GitHub streak" />
 
-<sub>Self-generated daily via <a href="./.github/workflows/metrics.yml">GitHub Actions</a> — no third-party server involved.</sub>
-
 </div>
 
 ## ✅ Contribution Graph
@@ -42,7 +40,5 @@
 <div align="center">
 
 <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Subas's contribution graph" />
-
-<sub>Self-generated daily via <a href="./.github/workflows/metrics.yml">GitHub Actions</a> — no third-party server involved.</sub>
 
 </div>
