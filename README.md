@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" alt="Tools and DevOps" />
 </p>
 
-## ⚡ Streak
+## Streak
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-## ✅ Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
