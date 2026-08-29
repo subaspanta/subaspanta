@@ -4,16 +4,16 @@
 
 </div>
 
-## 👋 About Me
+## About
 
-- 💻 Fullstack developer, currently exploring **AI** and **DevOps**
-- ⚡ React/Next.js on the frontend, Node.js and Postgres on the backend
-- 🗄️ Comfortable with SQL and MongoDB
-- 🔭 Exploring new codebases, fresh project ideas, and AI-native tools
-- 🌱 Passionate about building fast and shipping faster
-- 😄 Fun fact: I break more code than I write, and coffee's usually cold before I fix it
+-  Fullstack developer, currently exploring **AI** and **DevOps**
+-  React/Next.js on the frontend, Node.js and Postgres on the backend
+-  Comfortable with SQL and MongoDB
+-  Exploring new codebases, fresh project ideas, and AI-native tools
+-  Passionate about building fast and shipping faster
+-  Fun fact: I break more code than I write, and coffee's usually cold before I fix it
 
-## 🧑‍💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
