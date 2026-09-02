@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 jobs:
-  streak:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,21 +24,7 @@ jobs:
           path: assets/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated asset
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/streak.svg
-          git diff --staged --quiet || git commit -m "chore: update streak stats"
-          git push
-
-  activity:
-    needs: streak
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate contribution activity card
+      - name: Generate contribution activity cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -46,4 +32,24 @@ jobs:
           USERNAME: subaspanta
           BRANCH_NAME: main
           THEME: tokyonight
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Commit generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Fail if streak SVG is missing
+          if [ ! -f "assets/streak.svg" ]; then
+            echo "Error: expected assets/streak.svg but it was not generated" >&2
+            exit 1
+          fi
+          # Fail if profile-summary-card-output is missing or contains no SVG files
+          if [ ! -d "profile-summary-card-output" ] || ! find profile-summary-card-output -type f -name '*.svg' -print -quit | grep -q .; then
+            echo "Error: expected profile-summary-card-output with at least one .svg but none found" >&2
+            exit 1
+          fi
+          # Stage required outputs
+          git add assets/streak.svg
+          git add profile-summary-card-output
+          # Commit & push only when there are staged changes; do not create empty commits
+          git diff --staged --quiet || (git commit -m "chore(metrics): update streak SVG and summary cards" && git push)
