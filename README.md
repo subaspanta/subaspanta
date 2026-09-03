@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=subaspanta&label=Profile%20Views&color=0e75b6&style=flat" alt="Subas's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=subaspanta&label=Profile%20Views&color=0f172a&style=flat" alt="Profile views" />
 
 </div>
 
