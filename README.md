@@ -15,7 +15,7 @@
 
 <div align="left">
 
-  <img src="https://komarev.com/ghpvc/?username=subaspanta&label=PROFILE%20VIEWS&color=334155&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=subaspanta&label=PAGE%20VIEWS&color=334155&style=for-the-badge" alt="Page views" />
 
 </div>
 
