@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0f172a,100:334155&amp;height=180&amp;section=header&amp;text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Fullstack%20Developer%20%C2%B7%20AI%20and%20DevOps%20Explorer&amp;descSize=18&amp;descColor=94a3b8&amp;descAlignY=62&amp;animation=twinkling" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%C2%B7%20AI%20and%20DevOps%20Explorer&descSize=18&descColor=94a3b8&descAlignY=62&animation=twinkling" width="100%" alt="Banner" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=subaspanta&amp;label=Profile%20Views&amp;color=0f172a&amp;style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=subaspanta&label=Profile%20Views&color=0e75b6&style=flat" alt="Subas's profile views" />
 
 </div>
 
