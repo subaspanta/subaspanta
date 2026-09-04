@@ -13,12 +13,6 @@
 - I enjoy taking an idea from a rough concept to a working product, learning what breaks along the way
 - Currently focused on strengthening my fundamentals, working with real-world codebases, and becoming a better engineer through building
 
-<div align="left">
-
-  <img src="https://komarev.com/ghpvc/?username=subaspanta&label=PAGE%20VIEWS&color=334155&style=for-the-badge" alt="Page views" />
-
-</div>
-
 ## Tech Stack
 
 ### Languages & Frameworks
