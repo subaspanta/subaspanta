@@ -1,27 +1,19 @@
-<div align="center">
+<h1 align="center">Hi, I'm Subas 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full[...] 
-
-</div>
+<p align="center">
+  Full-stack web developer building practical web applications.
+</p>
 
 ## About
+
 - Full-stack web developer focused on building web applications.
 - Currently strengthening my web fundamentals and understanding how things work under the hood.
 - I learn by building, breaking things, and understanding why they work.
 
-
 ## Tech Stack
 
-### Languages & Frameworks
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma" alt="Languages and frameworks" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman" alt="Tools and DevOps" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgresql,docker" alt="Next.js, React, TypeScript, Node.js, PostgreSQL, and Docker" />
 </p>
 
 ## Streak
