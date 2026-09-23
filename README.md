@@ -13,7 +13,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgresql,docker" alt="Next.js, React, TypeScript, Node.js, PostgreSQL, and Docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,git,github,docker,linux,vercel,postman" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, PostgreSQL, MongoDB, Prisma, Git, GitHub, Docker, Linux, Vercel, and Postman" />
 </p>
 
 ## Streak
