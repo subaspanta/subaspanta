@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Fullstack%20Developer%20%C2%B7%20AI%20and%20DevOps%20Explorer&descSize=18&descColor=94a3b8&descAlignY=62&animation=twinkling" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:334155&height=180&section=header&text=Hi,%20I'm%20Subas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full[...] 
 
 </div>
 
 ## About
-Full-stack web developer focused on building web applications.
-Currently strengthening my web fundamentals and understanding how things work under the hood.
-I learn by building, breaking things, and understanding why they work.
+- Full-stack web developer focused on building web applications.
+- Currently strengthening my web fundamentals and understanding how things work under the hood.
+- I learn by building, breaking things, and understanding why they work.
 
 
 ## Tech Stack
