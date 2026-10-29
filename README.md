@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Subas 👋</h1>
 
 <p align="center">
-  Full-stack web developer from Nepal building thoughtful, practical digital experiences.
+  Full-stack web developer building modern web applications with React, Next.js, TypeScript, and Node.js.
 </p>
 
 ## About
 
-- Full-stack web developer focused on building useful web products and polished user experiences.
-- I enjoy turning ideas into functional, scalable, and maintainable applications.
-- Currently strengthening my fundamentals in web architecture, product thinking, and clean engineering.
-- I learn by building, iterating, breaking things, and understanding why they work.
+- Full-stack web developer focused on building useful web products.
+- I work across frontend and backend to deliver complete features.
+- I build with JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, and Prisma.
+- I improve my engineering skills by building projects, solving problems, and refining the systems behind them.
 
-## What I do
+## What I build
 
-- Build responsive and accessible web apps with a focus on usability and performance.
-- Design and develop end-to-end solutions using modern JavaScript and TypeScript tools.
-- Work across frontend and backend to create practical, real-world products.
-- Improve developer workflows, product quality, and system clarity through thoughtful implementation.
+- Responsive web interfaces
+- Full-stack web applications
+- REST APIs and backend services
+- Scalable features and product flows
 
 ## Tech Stack
 
@@ -24,16 +24,12 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,postgres,mongodb,prisma,git,github,docker,linux,vercel,postman" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Express, PostgreSQL, MongoDB, Prisma, Git, GitHub, Docker, Linux, Vercel, Postman" />
 </p>
 
-## Currently exploring
+## Current focus
 
-- Product-focused engineering and better problem solving
-- Frontend architecture and performance optimization
-- Backend systems, APIs, and scalable app design
-- Clean workflows, testing, and maintainable codebases
-
-## My approach
-
-I like building software that feels simple on the surface but is solid underneath. I care about clarity, speed, and creating experiences that people can actually enjoy using.
+- Frontend architecture
+- Backend development
+- Product thinking
+- Maintainable code and scalable systems
 
 ## Streak
 
