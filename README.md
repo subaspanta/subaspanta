@@ -4,12 +4,6 @@
   Full-stack web developer from Nepal building thoughtful, practical digital experiences.
 </p>
 
-<div align="center">
-  <a href="https://www.pantasubas.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pantasubas.com.np-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 ## About
 
 - Full-stack web developer focused on building useful web products and polished user experiences.
@@ -55,10 +49,4 @@ I like building software that feels simple on the surface but is solid underneat
 
 <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Subas's contribution graph" />
 
-</div>
-
-<div align="center">
-  <p>
-    <a href="https://www.pantasubas.com.np/" target="_blank">Explore my portfolio</a>
-  </p>
 </div>
